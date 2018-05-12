@@ -1,10 +1,16 @@
 _repo: On-Digestive-Proteolysis-Being-the-Cartwright-Lectures-for-1894_47938
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47938-h/images/cover.jpg
 creator:
   author:
     agent_name: Chittenden, R. H.
     gutenberg_agent_id: '44532'
     url: http://www.gutenberg.org/2009/agents/44532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47938#On-Digestive-Proteolysis-Being-the-Cartwright-Lectures-for-1894
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
